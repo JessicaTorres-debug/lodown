@@ -272,7 +272,7 @@ function partition (array, func) {
 
 module.exports.partition = partition;
 
-
+ 
 
 /**
  * map:
